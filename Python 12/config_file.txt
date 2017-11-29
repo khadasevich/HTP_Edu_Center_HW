@@ -1,2 +1,0 @@
-{"1":{"auth_data": {"secret": "106338qw", "user": "alekskhadasevich", "port": 2222}, "host": "127.0.0.1"}}
-
